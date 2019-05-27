@@ -84,12 +84,12 @@
         }
 
     ],
-    
+
     "libri": [
         {
             "titolo": "Il signore degli anelli",
             "descrizione": "fantasy",
-            "prezzo": "10€"
+            "prezzo": "10€",
             "recensione":[
                 {
                     "utente1":"bello",
@@ -100,7 +100,7 @@
         {
             "titolo": "Lo Hobbit",
             "descrizione": "fantasy",
-            "prezzo": "10€"
+            "prezzo": "10€",
             "recensione":[
                 {
                     "utente1":"bello bello",
